@@ -24,10 +24,16 @@
         }
     }
 
+    #headline{
+        font-weight: bold;
+    }
+
     aside {
         p {
             text-align: center;
         }
+
+
 
         nav ul,
         section {
@@ -35,7 +41,7 @@
             display: flex;
             justify-content: center;
             align-items: center;
-            gap: 30;
+            gap: 30px;
         }
 
         nav {
