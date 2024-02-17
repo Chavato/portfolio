@@ -23,7 +23,7 @@ export class ExperiencesComponent {
         strong: 'Estágio Backend',
         p: 'B2ML Sistemas | 2020 - 2021',
       },
-      text: '<ul><li>Desenvolvimento e manutenção de API Restutilizando C#, SQLServer e Docker, o qual faziaparte de um sistema de bilhetagem eletrônica.</li><li>Documentação do projeto.</li></ul>'
+      text: '<ul><li>Desenvolvimento e manutenção de API Restutilizando C#, SQLServer e Docker, o qual fazia parte de um sistema de bilhetagem eletrônica.</li><li>Documentação do projeto.</li></ul>'
       ,
     },
   ]);
